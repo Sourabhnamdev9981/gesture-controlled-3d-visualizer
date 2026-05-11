@@ -51,3 +51,4 @@ Simply double-click `index.html` to run in browser
 - Multi-hand support
 - Performance optimization
 - Mobile compatibility
+
