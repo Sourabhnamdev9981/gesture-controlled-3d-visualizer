@@ -43,6 +43,7 @@ Simply double-click `index.html` to run in browser
 ## ⚠️ Requirements
 
 - Webcam access must be enabled
+- 
 - Works best on modern browsers (Chrome recommended)
 
 ## 📌 Future Improvements
